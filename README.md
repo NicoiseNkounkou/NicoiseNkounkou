@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Niçoise Nkounkou</h1>
 <h3 align="center">A french passionated web developement student</h3>
 
-- 🔭 I’m currently working on **Spooky-FINALE**
+- 🔭 I’m currently working on **Spooky-project**
 
 - 🌱 I’m currently learning **Html, Css, Javascript, VueJS and NodeJS**
 
